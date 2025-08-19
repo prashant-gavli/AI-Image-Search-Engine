@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visual Search Engine</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1><i class="fas fa-camera"></i> Visual Search Engine</h1>
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Search for images...">
+                <button id="search-btn"><i class="fas fa-search"></i> Search</button>
+            </div>
+        </header>
+
+        <div class="results-info" id="results-info"></div>
+
+        <div class="gallery" id="gallery"></div>
+
+        <div class="pagination" id="pagination"></div>
+
+        <footer>
+            <p>Powered by Unsplash API</p>
+        </footer>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>
