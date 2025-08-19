@@ -13,14 +13,15 @@ Type a keyword ➡️ Get high-quality images instantly from **Unsplash API** �
 ## 📸 Project Demo
 
 ### 🔹 Homepage
-<img src="<img width="1235" height="977" alt="Screenshot 2025-08-19 141119" src="https://github.com/user-attachments/assets/4cd3065f-3e17-43b3-880e-fc5bf411c9da" />
-" alt="Homepage" width="700"/>
+<img width="1235" height="977" alt="Screenshot 2025-08-19 141119" src="https://github.com/user-attachments/assets/4cd3065f-3e17-43b3-880e-fc5bf411c9da" />
 
-### 🔹 Upload & Search
-<img src="assets/upload-demo.gif" alt="Upload Demo" width="700"/>
 
-### 🔹 Search Results
-<img src="assets/search-result.png" alt="Search Results" width="700"/>
+### 🔹 Search { like: lion }
+<img width="1399" height="972" alt="Screenshot 2025-08-19 141145" src="https://github.com/user-attachments/assets/e824d391-4664-4134-a87a-c40a23f82b98" />
+
+
+### 🔹 Search { like: mountains }
+<img width="1197" height="959" alt="Screenshot 2025-08-19 142238" src="https://github.com/user-attachments/assets/7944942e-8566-4fd5-9c65-2863d5683e4c" />
 
 ---
 
