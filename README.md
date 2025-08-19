@@ -7,9 +7,6 @@
 
 
 ---
-
-## 📸 Preview
-Type a keyword ➡️ Get high-quality images instantly from **Unsplash API** ✨ 
 ## 📸 Project Demo
 
 ### 🔹 Homepage
@@ -49,6 +46,7 @@ Type a keyword ➡️ Get high-quality images instantly from **Unsplash API** �
 ---
 
 ##  Getting Started
+ @ use uour own .env & groq API keys
 
 ### Prerequisites
 
