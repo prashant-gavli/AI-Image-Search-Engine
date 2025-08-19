@@ -13,7 +13,8 @@ Type a keyword ➡️ Get high-quality images instantly from **Unsplash API** �
 ## 📸 Project Demo
 
 ### 🔹 Homepage
-<img src="assets/homepage.png" alt="Homepage" width="700"/>
+<img src="<img width="1235" height="977" alt="Screenshot 2025-08-19 141119" src="https://github.com/user-attachments/assets/4cd3065f-3e17-43b3-880e-fc5bf411c9da" />
+" alt="Homepage" width="700"/>
 
 ### 🔹 Upload & Search
 <img src="assets/upload-demo.gif" alt="Upload Demo" width="700"/>
